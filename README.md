@@ -1,1 +1,1 @@
-My solutions to LeetCode Problems, in java and python, for practising DSA and Problem Solving
+My solutions to LeetCode Problems, in java and python 
